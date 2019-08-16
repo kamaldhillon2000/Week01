@@ -1,5 +1,5 @@
 # Week01
-C as Problem Sovling Tool: Week02
+C as Problem Sovling Tool: Week01
 
 ### Compiling code
 
